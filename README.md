@@ -68,7 +68,7 @@ ai-knowledge-base/
 ├── 📁 08-前沿研究/              # Frontier Research
 │   ├── 📁 8.1-新兴技术方向/     # Emerging Technologies
 │   └── 📁 8.2-技术趋势/         # Technology Trends
-└── 📁 03-论文精读/              # Paper Readings
+└── 📁 09-论文精读/              # Paper Readings
     ├── 📁 NeurIPS-2024/
     ├── 📁 ICML-2024/
     ├── 📁 ICLR-2024/
@@ -109,7 +109,7 @@ ai-knowledge-base/
 - [Understanding Diffusion Models](03-论文精读/ICLR-2024/ICLR-2024-Outstanding-Papers.md)
 - [In-context Learning and Induction Heads](03-论文精读/ICLR-2024/ICLR-2024-Outstanding-Papers.md)
 
-[查看更多论文...](03-论文精读/)
+[查看更多论文...](09-论文精读/)
 
 ---
 
@@ -130,7 +130,7 @@ ai-knowledge-base/
 - **Ring Attention**: 无限上下文扩展
 - **StreamingLLM**: 400万token处理
 
-[查看完整趋势报告...](08-前沿研究/8.2-技术趋势/2024-2025-AI技术突破.md)
+[查看完整趋势报告...](08-前沿研究/8.2-技术趋势/)
 
 ---
 
@@ -181,7 +181,7 @@ AI框架 → 开发工具链 → 应用与解决方案 → 行业实践
 
 **按角色查阅**:
 - 👨‍💻 **AI工程师**: 关注[AI框架](03-AI框架与引擎/)和[部署](05-开发工具链/5.3-部署与监控/)
-- 🔬 **研究员**: 深入[算法模型](04-算法与模型/)和[论文精读](03-论文精读/)
+- 🔬 **研究员**: 深入[算法模型](04-算法与模型/)和[论文精读](09-论文精读/)
 - 🏗️ **架构师**: 查看[硬件](01-硬件基础设施/)和[系统软件](02-系统软件层/)
 - 👨‍🎓 **学习者**: 从[基础算法](04-算法与模型/4.1-基础算法/)开始
 
